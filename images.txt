@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vulhub/kkfileview:4.3.0
 docker.io/kubesphere/pause:3.8
+ubuntu:20.04
