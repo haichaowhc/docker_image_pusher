@@ -10,3 +10,4 @@ ubuntu:20.04
 ubuntu:24.04 
 tonistiigi/binfmt
 keking/kkfileview:v2.2.2.1
+minio/minio
